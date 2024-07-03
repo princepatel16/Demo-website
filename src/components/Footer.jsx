@@ -82,6 +82,11 @@ const Footer = () => {
           </form>
         </div>
       </div>
+      <div className="flex justify-center py-5 md:gap-8 ">
+        <h3 className="text-center text-medium font-regular text-[#757575]">
+          © 2016-2024 medhveecreatives. All rights reserved.
+        </h3>
+      </div>
     </div>
   );
 };
