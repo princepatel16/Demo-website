@@ -63,8 +63,7 @@ const Footer = () => {
             <li className="py-2">Business</li>
             <li className="py-2">Lifestyle</li>
             <li className="py-2">Photography</li>
-            <li className="py-2">Music</li>
-          </ul>
+           </ul>
         </div>
 
         <div className="max-[780px]:col-span-2">
